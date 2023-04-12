@@ -9,5 +9,4 @@ class GihunApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
